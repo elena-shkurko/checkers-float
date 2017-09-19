@@ -1,0 +1,166 @@
+.checkers {
+	background: url(../img/background.jpg) 50% no-repeat;
+	width: 1000px;
+	height: 998px;
+	background-size: cover;
+	margin: auto;
+	transform: rotate(10deg);
+}
+
+.ch-checker__black {
+	background: url(../img/black.png);
+	background-size: cover;
+	width: 100px;
+	height: 100px;
+}
+
+.ch-checker__black--1 {
+	float: left;
+	margin-top: 55px;
+	margin-left: 170px;
+}
+
+.ch-checker__black--2 {
+	float: left;
+	margin-top: 55px;
+	margin-left: 125px;
+}
+
+.ch-checker__black--3 {
+	float: left;
+	margin-top: 55px;
+	margin-left: 125px;
+} 
+
+.ch-checker__black--4 {
+	float: left;
+	margin-top: 55px;
+	margin-left: 125px;
+}
+.ch-checker__black--5 {
+	float: left;
+	margin-top: 15px;
+	margin-left: 55px;
+}
+
+.ch-checker__black--6 {
+	float: left;
+	margin-top: 15px;
+	margin-left: 125px;
+}
+
+.ch-checker__black--7 {
+	float: left;
+	margin-top: 15px;
+	margin-left: 125px;
+} 
+
+.ch-checker__black--8 {
+	float: left;
+	margin-top: 15px;
+	margin-left: 125px;
+}
+
+.ch-checker__black--9 {
+	float: left;
+	margin-top: 10px;
+	margin-left: 170px;
+}
+
+.ch-checker__black--10 {
+	float: left;
+	margin-top: 10px;
+	margin-left: 125px;
+}
+
+.ch-checker__black--11 {
+	float: left;
+	margin-top: 10px;
+	margin-left: 125px;
+} 
+
+.ch-checker__black--12 {
+	float: left;
+	margin-top: 10px;
+	margin-left: 125px;
+}
+
+.ch-checker__white {
+	background: url(../img/white.png);
+	background-size: cover;
+	width: 100px;
+	height: 100px;
+
+}
+
+.ch-checker__white--1 {
+	float: left;
+	margin-top: 230px;
+	margin-left: 60px;
+}
+
+.ch-checker__white--2 {
+	float: left;
+	margin-top: 230px;
+	margin-left: 120px;
+}
+
+.ch-checker__white--3 {
+	float: left;
+	margin-top: 230px;
+	margin-left: 120px;
+}
+
+.ch-checker__white--4 {
+	float: left;
+	margin-top: 230px;
+	margin-left: 130px;
+}
+
+.ch-checker__white--5 {
+	float: left;
+	margin-top: 15px;
+	margin-left: 165px;
+}
+
+.ch-checker__white--6 {
+	float: left;
+	margin-top: 15px;
+	margin-left: 125px;
+}
+
+.ch-checker__white--7 {
+	float: left;
+	margin-top: 15px;
+	margin-left: 125px;
+}
+
+.ch-checker__white--8 {
+	float: left;
+	margin-top: 15px;
+	margin-left: 125px;
+}
+
+.ch-checker__white--9 {
+	float: left;
+	margin-top: 15px;
+	margin-left: 55px;
+}
+
+.ch-checker__white--10 {
+	float: left;
+	margin-top: 15px;
+	margin-left: 125px;
+}
+
+.ch-checker__white--11 {
+	float: left;
+	margin-top: 15px;
+	margin-left: 125px;
+}
+
+.ch-checker__white--12 {
+	float: left;
+	margin-top: 15px;
+	margin-left: 125px;
+}
